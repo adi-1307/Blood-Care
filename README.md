@@ -1,3 +1,2 @@
-# Blood-Care
-
-An App which is aimed to facilitate Blood donation.
+: An application aimed to facilitate blood donation by connecting thousand of donors
+with recipients. It aims to develop a scalable and reliable system for blood donation.
